@@ -1,6 +1,6 @@
 ### codingj87
 
-#### Growth oriented Engineer 🔥
+#### Application developer 🔥
 
 - python, Django, Graphene
 - Reactjs, javascript, GraphQL, Apollo Client

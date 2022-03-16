@@ -1,10 +1,10 @@
-# codingj87
+### codingj87
 
-## Application developer
+#### Growth oriented Engineer 🔥
 
 - python, Django, Graphene
 - Reactjs, javascript, GraphQL, Apollo Client
 
-## Contact
+#### Contact
 
 - @\_\_hoooony\_\_
